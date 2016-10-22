@@ -1,0 +1,14 @@
+.chapter img {
+	max-width: 600px;
+	transform: translateX(-50%);
+	margin-left: 50%;
+}
+
+.chapter {
+	overflow-x: hidden;
+}
+
+.indent2{
+	text-indent: 2em;
+	line-height: 1.8;
+}
